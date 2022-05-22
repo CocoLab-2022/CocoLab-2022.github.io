@@ -1,0 +1,21 @@
+@media screen and (min-width: 1100px){
+.flexslider{margin-top: 45px;}
+
+}
+.NewsList{margin-top:30px;overflow: hidden;}
+.TopNews{overflow: hidden;padding-bottom:30px;border-bottom: 1px solid #ddd;}
+.TopImg{float: left;width: 41.92%;overflow: hidden;margin-right:4%;}
+.TopCon{float:left;width:100%;overflow: hidden;}
+.TopCon a{display: block;}
+.TopCon a h2 {margin-bottom:22px;font-size: 16px;color: #464646;max-height: 42px;background:none;}
+.TopCon a:hover h2{color:#94070a;}
+.leftDate{color:#888;font-size: 12px;}
+.TopCon p{margin-top: 22px;font-size: 12px;color: #666;line-height: 22px;max-height: 88px;overflow: hidden;}
+.NewsConList{}
+.NewsConList li{border-bottom: 1px solid #ddd;}
+.NewsConList li a{display: block;padding:7px 0;*padding:15px 0;}
+.NewsConList li a h2{font-size: 14px;color: #464646;font-weight: normal;margin:10px 0;}
+.NewsConList li a{display: block;overflow: hidden;}
+.NewsConList li a:hover{background-color:#fafafa;}
+.NewsConList li a:hover h2{color:#94070a;}
+.NewsConList li .leftDate{color:#888;font-size: 12px;float: right;margin: 10px 5px 0px;}
