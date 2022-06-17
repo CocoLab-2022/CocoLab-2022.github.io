@@ -28,7 +28,7 @@ Extended reading: teacher's introduction of research direction, exclusive interv
 
 Scientific research staff (name, position, telephone number, email address, brief introduction, etc.) 
 
-Administrative staff
+Guest member
 
 Current students
 
@@ -49,5 +49,3 @@ Courses offered and corresponding course introductions, etc.
 ## Contact us
 
 The teacher (and assistants) office building date and machine number.
-
-A screenshot of the map to a specific building
